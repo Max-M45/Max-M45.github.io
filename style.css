@@ -1,0 +1,40 @@
+            
+body {
+    text-align: center; 
+    background-color: rgb(118, 243, 201);
+}
+
+nav {
+    font-weight: bold;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    font-weight: bold;
+    list-style:none;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+h2 {
+    background-color: rgba(172, 60, 138, 0.637);
+    text-decoration: underline
+}
+
+.Recipes {
+    background-color:rgb(105, 105, 223);
+     text-decoration: underline
+}
+
+h1 {
+    font-style: italic;
+     text-decoration: underline
+}
+                
+            
